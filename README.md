@@ -1,6 +1,6 @@
 # Wise-Words
 
-The Random Quote Generator App is a simple web application that displays random quotes. It fetches quotes from a free API and allows users to generate and copy quotes to their clipboard.
+The WiseWords App is a simple web application that displays random quotes. It fetches quotes from a free API and allows users to generate and copy quotes to their clipboard.
 
 ## Features
 
