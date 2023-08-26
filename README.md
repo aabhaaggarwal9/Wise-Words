@@ -17,7 +17,7 @@ The Random Quote Generator App is a simple web application that displays random 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/aabhaaggarwal9/Wise-Words.git'''
+   git clone https://github.com/aabhaaggarwal9/Wise-Words.git
 2. Open the index.html file in your web browser.
 3. Click the "Generate Quote" button to see a new random quote.
 4. Click the copy icon to copy the quote to your clipboard.
